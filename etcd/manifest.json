@@ -37,6 +37,8 @@
       "Etcd Overview": "assets/dashboards/etcd_overview.json"
     },
     "service_checks": "assets/service_checks.json",
-    "logs": {}
+    "logs": {
+      "source": "etcd"
+    }
   }
 }
